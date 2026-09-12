@@ -1,3 +1,6 @@
+/* sumber https://whatsapp.com/channel/0029Vb8Thxq2kNFik6sVnY0JK
+ * kalau mau pake api https://api.dongtube.id
+ */
 const DEFAULT_API_KEY = "5a61a8e1df2f614dc83609925720c35d";
 const TMDB_BASE = "https://api.themoviedb.org/3";
 const IMG_BASE = "https://image.tmdb.org/t/p/w500";

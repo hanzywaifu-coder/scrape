@@ -1,3 +1,6 @@
+/* sumber https://whatsapp.com/channel/0029Vb8Thxq2kNFik6sVnY0JK
+ * kalau mau pake api https://api.dongtube.id
+ */
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
