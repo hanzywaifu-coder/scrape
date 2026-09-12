@@ -5,7 +5,6 @@ const path = require('path');
 const BASE = 'https://manwhaku.my.id';
 
 // Kumpulan scraper by Dongtube
-// Scraper manwhaku.my.id: search, detail, download chapter
 
 function httpGet(url, redirect = true) {
   return new Promise((resolve, reject) => {
